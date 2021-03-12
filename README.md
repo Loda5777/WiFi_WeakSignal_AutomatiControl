@@ -1,5 +1,5 @@
 # WiFi_WeakSignal_AutomatiControl
-这是一个华硕路由器的自动化测试代码
+这是一个华硕路由器的自动化控制代码
 
 使用Python编写
 
