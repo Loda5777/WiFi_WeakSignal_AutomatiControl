@@ -1,0 +1,6 @@
+# WiFi_WeakSignal_AutomatiControl
+这是一个华硕路由器的自动化测试代码
+
+使用Python编写
+
+主要使用selenium框架下的webdriver库
