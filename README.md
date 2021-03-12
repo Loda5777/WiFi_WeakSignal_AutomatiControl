@@ -4,3 +4,5 @@
 使用Python编写
 
 主要使用selenium框架下的webdriver库
+
+新人努力学习Python中，希望自己好运
